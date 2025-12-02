@@ -70,9 +70,13 @@ By completing this project, you will develop industry-ready skills:
 
 ## 📊 Key Insights 
 ⭐ Top events with the highest satisfaction scores
+
 📉 Events needing improvement based on low ratings or negative sentiment
+
 🗂️ Department-wise performance
+
 💬 Most common feedback themes (via word clouds & sentiment scores)
+
 🔗 Relationship between event types and student satisfaction
 
 ## 📝 Final Deliverables
@@ -84,4 +88,4 @@ With clean, commented code performing:
 - Sentiment processing
 - Visualization
 
-If you like this project, feel free to ⭐ star it!!!!!
+## If you like this project, feel free to ⭐ star it!!!!!
